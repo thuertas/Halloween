@@ -1,0 +1,17 @@
+/* halloween */
+
+img {
+  height: 200px;
+}
+
+.topnav li {
+  display: inline-block;
+}
+.topnav img {
+  height: 40px;
+}
+
+body {
+  color: white;
+  font-size: xx-large;
+}
